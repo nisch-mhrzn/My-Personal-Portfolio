@@ -19,7 +19,7 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Data Scientist</h3>
               <p>
-                I am an aspiring Data Scientist with experience in handling large datasets, performing data analysis, and creating insightful visualizations.
+                I am an aspiring Data Scientist based in Sydney with experience in handling large datasets, performing data analysis, and creating insightful visualizations.
               </p>
             </div>
           </li>
