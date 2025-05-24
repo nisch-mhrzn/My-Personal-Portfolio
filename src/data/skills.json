@@ -1,17 +1,5 @@
 [
   {
-    "title": "HTML",
-    "imageSrc": "skills/html.png"
-  },
-  {
-    "title": "CSS",
-    "imageSrc": "skills/css.png"
-  },
-  {
-    "title": "React",
-    "imageSrc": "skills/react.png"
-  },
-  {
     "title": "Python",
     "imageSrc": "skills/PY.png"
   },
@@ -20,11 +8,23 @@
     "imageSrc": "skills/sql.png"
   },
   {
-    "title": "C",
-    "imageSrc": "skills/C.png"
+    "title": "Tensorflow",
+    "imageSrc": "skills/tensorflow.png"
   },
   {
-    "title": "C++",
-    "imageSrc": "skills/Cp.png"
+    "title": "Seaborn",
+    "imageSrc": "skills/sns.png"
+  },
+  {
+    "title": "Matplotlib",
+    "imageSrc": "skills/plt.png"
+  },
+  {
+    "title": "Numpy",
+    "imageSrc": "skills/numpy.png"
+  },
+  {
+    "title": "Pandas",
+    "imageSrc": "skills/pandas.png"
   }
 ]

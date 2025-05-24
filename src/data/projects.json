@@ -7,28 +7,44 @@
     "demo": "https://www.example.com",
     "source": "https://github.com/nisch-mhrzn/Apple-leaf-disease-detection"
   },
-  {
-    "title": "ToDo List",
+   {
+    "title": "House Price Prediction",
     "imageSrc": "projects/TODO.png",
-    "description": "This app allows users to add, complete, and delete tasks, with tasks being stored in the browser's local storage.",
-    "skills": ["Html", "Css", "Javascript"],
+    "description": "A machine learning model that predicts house prices based on various features.",
+    "skills": ["Python", "Pandas", "Scikit-Learn", "Matplotlib"],
     "demo": "https://www.example.com",
-    "source": "https://github.com/nisch-mhrzn/TO-DO-LIST"
+    "source": "https://github.com/nisch-mhrzn/House_Prediction"
   },
   {
-    "title": "Weather App",
-    "imageSrc": "projects/weath.png",
-    "description": "The Weather App,uses the OpenWeatherMap API to provide real-time weather information for any specified city and country code.",
-    "skills": ["Python"],
+    "title": "Book Recommender System",
+    "imageSrc": "projects/book.png",
+    "description": "A recommendation system that suggests books based on user preferences and ratings.",
+    "skills": ["Python", "Pandas", "Numpy", "Scikit-Learn"],
     "demo": "https://www.example.com",
-    "source": "https://github.com/nisch-mhrzn/Weather-app"
+    "source": "https://github.com/nisch-mhrzn/Book-Recommender-System"
   },
   {
-    "title": "Spotify",
-    "imageSrc": "projects/spotify.png",
-    "description": "This is a simple music player, mimicking some Spotify-like behavior",
-    "skills": ["Html", "CSS", "Javascript"],
+    "title": "Laptop Price Predictor",
+    "imageSrc": "projects/laptop.png",
+    "description": "Predicts laptop prices using machine learning based on user-provided specifications.",
+    "skills": ["Python", "Pandas", "Scikit-Learn", "Streamlit"],
     "demo": "https://www.example.com",
-    "source": "https://github.com/nisch-mhrzn/Spofiy-"
+    "source": "https://github.com/nisch-mhrzn/Laptop-Price-Predictor"
+  },
+  {
+    "title": "Vehicle Detection",
+    "imageSrc": "projects/vehicle.png",
+    "description": "Detects and counts vehicles in video feeds using OpenCV and Python.",
+    "skills": ["Python", "OpenCV"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/nisch-mhrzn/Vehicle-Detection"
+  },
+  {
+    "title": "Autism Spectrum Disorder Prediction",
+    "imageSrc": "projects/vehicle.png",
+    "description": "Built an ML model (Random Forest/XGBoost) to predict Autism Spectrum Disorder (ASD). Preprocessed data (median imputation, SMOTE), achieving 92% validation and 82% test accuracy",
+    "skills": ["Python", "Scikit-Learn", "XGBoost", "SMOTE"],
+   
+    "source": "https://github.com/nisch-mhrzn/Autism-Spectrum-Disorder-Prediction"
   }
 ]

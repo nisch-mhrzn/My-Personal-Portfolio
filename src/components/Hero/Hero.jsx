@@ -10,8 +10,7 @@ export const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I am Nischal </h1>
         <p className={styles.description}>
-          I am a Software Developer with 2+ years of experience using Python and
-          ReactJS. Reach out if you would like to learn more!
+         Aspiring Data Scientist skilled in Python, SQL, and data visualization. Passionate about extracting insights and solving real-world problems through data.
         </p>
         <a href="mailto:nischal.maharjan1233@gmail.com" className={styles.contactBtn}>
           Contact Me

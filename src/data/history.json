@@ -4,7 +4,12 @@
     "organisation": "Robo Tech Nepal",
     "startDate": "May, 2024",
     "endDate": "September 2024",
-    "experiences": ["Worked on Air Filter design", "Designed PCBs"],
+    "experiences": [
+  "Integrated ML models with hardware for real-time system response.",
+  "Developed gesture-controlled devices using OpenCV, Python, and microcontrollers.",
+  "Contributed to air filter design for sensing applications.",
+  "Designed PCBs for embedded hardware projects."
+],
     "imageSrc": "history/robo.png"
   },
   {
@@ -13,8 +18,8 @@
     "startDate": "June, 2023",
     "endDate": "July, 2023",
     "experiences": [
-      "Led in successful execution of complex projects",
-      "Timely delivery of projects with scope and budget constraints"
+      "Coordinated with teams to apply Agile methods, improving delivery and collaboration.",
+    "Managed scope and resources, boosting on-time project completion by 15%."
     ],
     "imageSrc": "history/HCOE.png"
   },
@@ -24,8 +29,7 @@
     "startDate": "May, 2023",
     "endDate": "Jun, 2023",
     "experiences": [
-      " Instructed students of 1st year at Arduino and sensor interfacing trainings",
-      "Developed public speaking and problem solving skills."
+       "Guided 100+ students in Arduino-based robotics projects; conducted workshops on sensor interfacing and embedded programming."
     ],
     "imageSrc": "history/HCOE.png"
   }
